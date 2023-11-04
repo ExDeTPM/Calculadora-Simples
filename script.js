@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var tela = document.getElementById("tela");
 
-    //Array de elementos que receber uma listener
+    //Array de elementos que recebem uma listener
     var listenerBtn = [];
 
     //teclas adicionais do teclado
